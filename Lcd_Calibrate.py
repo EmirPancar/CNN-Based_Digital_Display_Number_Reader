@@ -1,4 +1,6 @@
 """
+Dosya Adı: Lcd_Calibrate.py
+
 LCD Segment Eşik Ayarlayıcı (Kalibrasyon Yardımcısı)
 =====================================================
 Bu araç, kameranızın aydınlatma koşullarına göre
@@ -28,7 +30,7 @@ def calibrate_thresholds():
     print("  LCD Eşik Kalibrasyon Aracı")
     print("=" * 50)
 
-    cap = cv2.VideoCapture(0)
+    cap = cv2.VideoCapture(1)
     if not cap.isOpened():
         print("[HATA] Kamera açılamadı!")
         return

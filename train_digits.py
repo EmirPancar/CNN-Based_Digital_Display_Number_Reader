@@ -1,4 +1,6 @@
 """
+Dosya Adı: train_Digits.py
+
 Rakam Sınıflandırıcı Eğitim Scripti — v2 (boş bölme destekli)
 ===============================================================
 collect_digits.py ile toplanan verilerle CNN eğitir.
