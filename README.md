@@ -1,4 +1,4 @@
-# 📟 Dijital Ekran Sayı Okuyucu (Hybrid OCR Pipeline)
+# 📟 Dijital Ekran Sayı Okuyucu
 
 > Fiziksel dijital ekranlardaki sayıları gerçek zamanlı okuyup Excel'e kaydeden; standart OCR hatalarını sıfırdan eğitilmiş özel bir PyTorch CNN modeliyle çözen uçtan uca hibrit görüntü işleme sistemi.
 
