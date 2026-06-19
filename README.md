@@ -75,4 +75,3 @@ Sınıflandırıcı, düşük çözünürlüklü 32x32 gri tonlamalı görüntü
 
 ## 👨‍💻 Geliştirici
 Bu proje, hazır modellerin yetersiz kaldığı endüstriyel ortamlarda Görüntü İşleme ve Derin Öğrenme pratiklerini entegre ederek uçtan uca bir çözüm üretmek amacıyla geliştirilmiştir.
-```
